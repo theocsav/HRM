@@ -1,4 +1,4 @@
-# Hierarchical Reasoning Model
+# Hierarchical Security Reasoning Model
 
 ![](./assets/hrm.png)
 
